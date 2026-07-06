@@ -96,16 +96,6 @@ Data-Center-Water-Stress-Classification/
 
 ---
 
-## Key Highlights
-
-- Complete end-to-end Machine Learning Classification Project
-- Data preprocessing using Scikit-learn Pipeline
-- Outlier detection using the IQR method
-- Robust model evaluation using multiple metrics
-- 5-Fold Cross Validation for model reliability
-- Clean and reproducible workflow
-
----
 
 ## Future Improvements
 
